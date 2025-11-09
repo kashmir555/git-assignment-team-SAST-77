@@ -7,7 +7,7 @@ public class App
   System.out.println("This app is made by: "+ creator);
 
   //Declaring double
-  double number1 = 6;
+  double number1 = 2;
   double number2 = 2;
 
   
