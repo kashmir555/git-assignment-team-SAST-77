@@ -3,7 +3,7 @@ public class App
      System.out.println("This app is made by:");
 
   //Declaring variable as creator 
-  String creator = "Anup";
+  String creator = "Sushant";
   System.out.println("This app is made by: "+ creator);
 
   //Declaring double
